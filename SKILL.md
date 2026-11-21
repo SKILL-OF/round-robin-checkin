@@ -1,6 +1,6 @@
 ---
 name: round-robin-checkin
-trigger: Use on every tick or work cycle, for each agent you have responsibilities toward (peers or subordinates).
+description: Use on every work cycle to contact each agent you have responsibilities toward, so no connection goes idle.
 ---
 
 # Round-robin check-in
